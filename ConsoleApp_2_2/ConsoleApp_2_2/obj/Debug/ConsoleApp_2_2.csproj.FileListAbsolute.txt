@@ -1,0 +1,14 @@
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\bin\Debug\ConsoleApp_2_2.exe.config
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\bin\Debug\ConsoleApp_2_2.exe
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\bin\Debug\ConsoleApp_2_2.pdb
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.csproj.AssemblyReference.cache
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.csproj.CoreCompileInputs.cache
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.exe
+C:\Users\ruson\source\repos\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.pdb
+E:\УПК\Нед_1\Задание_2\ConsoleApp_2_2\ConsoleApp_2_2\bin\Debug\ConsoleApp_2_2.exe.config
+E:\УПК\Нед_1\Задание_2\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.exe
+E:\УПК\Нед_1\Задание_2\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.pdb
+E:\УПК\Нед_1\Задание_2\ConsoleApp_2_2\ConsoleApp_2_2\bin\Debug\ConsoleApp_2_2.exe
+E:\УПК\Нед_1\Задание_2\ConsoleApp_2_2\ConsoleApp_2_2\bin\Debug\ConsoleApp_2_2.pdb
+E:\УПК\Нед_1\Задание_2\ConsoleApp_2_2\ConsoleApp_2_2\obj\Debug\ConsoleApp_2_2.csprojResolveAssemblyReference.cache
